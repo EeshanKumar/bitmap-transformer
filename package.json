@@ -1,0 +1,32 @@
+{
+  "name": "bitmap-transformer",
+  "version": "0.1.0",
+  "description": "Transform your bitmap image",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/grunt-cli/bin/grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EeshanKumar/bitmap-transformer.git"
+  },
+  "keywords": [
+    "bitmap",
+    "transformer"
+  ],
+  "author": "Eeshan Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EeshanKumar/bitmap-transformer/issues"
+  },
+  "homepage": "https://github.com/EeshanKumar/bitmap-transformer",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-simple-mocha": "^0.4.0",
+    "mocha": "^2.2.4"
+  },
+  "dependencies": {}
+}
